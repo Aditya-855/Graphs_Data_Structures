@@ -10,6 +10,4 @@ add_executable(Graphs main.cpp
         Course_Schedule.h
         Course_Schedule_II.cpp
         Course_Schedule_II.h
-        Course_Schedule_DFS.cpp
-        Course_Schedule_DFS.h
 )
