@@ -9,6 +9,7 @@ using namespace std;
 
 class Solution {
 public:
+    //using DFS
     bool checkBipartiteDFS(vector<vector<int>>& graph, int curr, vector<int>& color, int currColor) {
         color[curr] = currColor; // Color the current node
 
