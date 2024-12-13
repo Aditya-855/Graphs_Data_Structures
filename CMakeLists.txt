@@ -10,4 +10,6 @@ add_executable(Graphs main.cpp
         Course_Schedule.h
         Course_Schedule_II.cpp
         Course_Schedule_II.h
+        Is_Graph_Bipartite.cpp
+        Is_Graph_Bipartite.h
 )

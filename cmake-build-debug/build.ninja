@@ -73,8 +73,8 @@ build CMakeFiles/Graphs.dir/Course_Schedule_II.cpp.obj: CXX_COMPILER__Graphs_uns
   OBJECT_DIR = CMakeFiles\Graphs.dir
   OBJECT_FILE_DIR = CMakeFiles\Graphs.dir
 
-build CMakeFiles/Graphs.dir/Course_Schedule_DFS.cpp.obj: CXX_COMPILER__Graphs_unscanned_Debug C$:/Users/adity/CLionProjects/Graphs/Course_Schedule_DFS.cpp || cmake_object_order_depends_target_Graphs
-  DEP_FILE = CMakeFiles\Graphs.dir\Course_Schedule_DFS.cpp.obj.d
+build CMakeFiles/Graphs.dir/Is_Graph_Bipartite.cpp.obj: CXX_COMPILER__Graphs_unscanned_Debug C$:/Users/adity/CLionProjects/Graphs/Is_Graph_Bipartite.cpp || cmake_object_order_depends_target_Graphs
+  DEP_FILE = CMakeFiles\Graphs.dir\Is_Graph_Bipartite.cpp.obj.d
   FLAGS = -g -std=gnu++1z -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Graphs.dir
   OBJECT_FILE_DIR = CMakeFiles\Graphs.dir
@@ -87,7 +87,7 @@ build CMakeFiles/Graphs.dir/Course_Schedule_DFS.cpp.obj: CXX_COMPILER__Graphs_un
 #############################################
 # Link the executable Graphs.exe
 
-build Graphs.exe: CXX_EXECUTABLE_LINKER__Graphs_Debug CMakeFiles/Graphs.dir/main.cpp.obj CMakeFiles/Graphs.dir/h.cpp.obj CMakeFiles/Graphs.dir/Course_Schedule.cpp.obj CMakeFiles/Graphs.dir/Course_Schedule_II.cpp.obj CMakeFiles/Graphs.dir/Course_Schedule_DFS.cpp.obj
+build Graphs.exe: CXX_EXECUTABLE_LINKER__Graphs_Debug CMakeFiles/Graphs.dir/main.cpp.obj CMakeFiles/Graphs.dir/h.cpp.obj CMakeFiles/Graphs.dir/Course_Schedule.cpp.obj CMakeFiles/Graphs.dir/Course_Schedule_II.cpp.obj CMakeFiles/Graphs.dir/Is_Graph_Bipartite.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Graphs.dir
